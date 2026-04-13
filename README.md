@@ -1,3 +1,13 @@
+![Uploading Screenshot_20260413-212431.png…]()
+![Screenshot_20260413-212435](https://github.com/user-attachments/assets/8f1999dc-1088-4f9d-bbcd-f0169f49430e)
+
+
+
+
+
+
+
+
 🔥 GHOST OSINT - Termux Installation Commands (Copy-Paste)
 
 Yeh raha direct copy-paste karne wala code:
